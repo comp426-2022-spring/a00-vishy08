@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a00-vishy08/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a00-vishy08#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a00-vishy08#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
